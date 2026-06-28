@@ -130,7 +130,7 @@ Royal Palace Orignal/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/royal-palace.git
+git clone https://github.com/mr-jagadish01/hotel-management-aws-static-website-hosting.git
 cd royal-palace
 ```
 
